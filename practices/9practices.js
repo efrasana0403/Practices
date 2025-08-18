@@ -8,11 +8,11 @@
 
 
 const speedLimit = 40;
-const userSpeed = 112;
+const userSpeed = 5;
 
 const speedCamera = (user, limit) => {
     if (user <= limit) {
-        return "Ok"
+        return "ok, you're under speed limit"
     } else if (user > limit) {
         let overLimit = (user - limit) / 5; // divided by 5, due to 1 demerit point is given per every 5 km/h 
         if (overLimit <= 12) {
