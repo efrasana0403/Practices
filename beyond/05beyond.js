@@ -72,5 +72,5 @@ const iPhone25Pro = new HighGammaCellphone("black", "100g", "14 Megapixels", "4K
  * classes starts with caps by convention
  * constroctor(), super(), and methods() are created within the class
  * used `class "inheritedClass" extends "parent class"{}` to connect son and parents classes
- * used super () to inherit properties from the parento onto the son class
+ * used super () to inherit properties from the parento onto the son class.
 */
