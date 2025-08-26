@@ -45,7 +45,7 @@ class Cellphone {
 
 const iPhone25 = new Cellphone("red", "150g", "12 megapixels", "high resolution", "4GB")
 
-// console.log(iPhone25.powerOnOff()); // Phone is turned on
+console.log(iPhone25.powerOnOff()); // Phone is turned on
 // console.log(iPhone25.powerOnOff()); // Phone is turned off
 // console.log(iPhone25.isPoweredOn()); // Phone is turned off
 // console.log(iPhone25.restart());     // Phone is turning on
