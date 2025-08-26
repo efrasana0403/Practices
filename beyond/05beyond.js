@@ -67,5 +67,10 @@ class HighGammaCellphone extends Cellphone {
 const iPhone25Pro = new HighGammaCellphone("black", "100g", "14 Megapixels", "4K resolution", "8GB", "20 Megapixels");
 // console.log(iPhone25Pro.HGInformation()); // outputs phone info 
 
-/**I can can call a function from the parent class on an object in the inherited class*/
-
+/**I can can call a function from the parent class on an object in the inherited class
+ * I can use .trim() to remove all spaces from a string
+ * classes starts with caps by convention
+ * constroctor(), super(), and methods() are created within the class
+ * used `class "inheritedClass" extends "parent class"{}` to connect son and parents classes
+ * used super () to inherit properties from the parento onto the son class
+*/
