@@ -43,8 +43,5 @@
 
 const arr = [1, 2, 3, 4, 5]
 
-let array =
-
-    console.log(array);
+console.log(array);
 console.log(arr);
-
