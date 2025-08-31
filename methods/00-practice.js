@@ -41,7 +41,14 @@
  * foreach()Performs the specified action for each element in an array. we loop through the elements and declare an action after each loop
  */
 
-const arr = [1, 2, 3, 4, 5]
-
-console.log(array);
-console.log(arr);
+/**MATH OBJECT
+ * sqrt() returns positive square root of a number
+ * cbrt() returns cubic root of a number
+ * max() returns maximun (greates) of 0 or more numbers
+ * min() returns minumun (least) of 0 or more numbers
+ * random() returns a pseudorandom number between 0-1
+ * round() returns a rounded-to-the-nearest number, number no matter whether it is down or up.
+ * fround() used to convert 64-bit number into 32-bit numbers
+ * floor() returns a downrounded number. 
+ * trunc() removes decimals from a number
+ */
